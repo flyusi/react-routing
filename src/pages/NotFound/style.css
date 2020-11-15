@@ -1,0 +1,10 @@
+.not-found {
+    background: url("404.jpg") center no-repeat #dcecf9;
+    height: 80vh;
+}
+
+.not-found a {
+    display: flex;
+    justify-content: center;
+    margin-top: 43vh;
+}
